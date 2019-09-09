@@ -54,16 +54,6 @@ Successfully designed and implemented a passwordless authentication solution. CO
 ##### Stack:
 Node, Postgres, Docker, Redis, GraphQL, Gitalab CI, AWS (ECS)
 
-### Carnival Funprint - at R/GA
-BigFive psychological profiling ML model - [carnival.com](https://www.carnival.com)
-> Supported the data scientist team by deploying their models and creating the API for the same models to be consumed. Created a react app and a backend API for data harvesting.
-
-##### Highlights:
-To collaborate with the data science team!
-
-##### Stack:
-Node, Python, Docker, Keras, TensorFlow, Nginx, Gitalb CI, AWS
-
 ### Equinox Gym - at R/GA
 Set of microservices to be deployed on their cloud solution. - [equinox.com](https://www.equinox.com/)
 > As an external resource I developed two python/flask microservices to be consumed from multiple mobile apps.
@@ -74,6 +64,16 @@ Worked with a third party service development team to implement a custom SSO sol
 
 ##### Stack:
 Python, Docker, Postgres, Redis, Elasticsearch, Kibanna, Nginx, Jenkins, AWS
+
+### Carnival Funprint - at R/GA
+BigFive psychological profiling ML model - [carnival.com](https://www.carnival.com)
+> Supported the data scientist team by deploying their models and creating the API for the same models to be consumed. Created a react app and a backend API for data harvesting.
+
+##### Highlights:
+To collaborate with the data science team!
+
+##### Stack:
+Node, Python, Docker, Keras, TensorFlow, Nginx, Gitalb CI, AWS
 
 ### Senda - at Interactar
 A Bitcoin / FIAT currency trader - [coinsenda.com](https://coinsenda.com)
